@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\blog",
+    "\\blog\\source",
+    "\\blog\\source\\cms",
+    "\\blog\\themes",
+    "\\blog\\themes\\landscape",
+    "\\blog\\themes\\landscape\\layout",
+    "\\blog\\themes\\landscape\\layout\\_partial"
+  ],
+  "SelectedNode": "\\blog\\themes\\landscape\\layout\\_partial\\header.ejs",
+  "PreviewInSolutionExplorer": false
+}
